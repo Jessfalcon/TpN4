@@ -44,7 +44,6 @@ class JugadorDeFutbol:
     def actualizacion_estadisticas(self):
         print(f"Estadísticas actualizadas del jugador {self.nombre}.")
 
-# Función principal para interactuar con el usuario
 def main():
     jugadores = {}
 
